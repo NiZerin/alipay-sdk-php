@@ -64,7 +64,7 @@
 1. Composer 安装。
 
     ```bash
-    composer require nizerin/alipay-sdk:dev-master
+    composer require nizerin/alipay-sdk:
     ```
 
     > Composer 中国镜像近期处于维护状态；若无法安装，建议使用原版 Packagist 或使用 [Laravel-China 镜像](https://NiZerin.cn/documents/packagist-mirror-in-china/)。
